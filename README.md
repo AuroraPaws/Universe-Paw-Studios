@@ -1,4 +1,4 @@
-# Universe-Paw-Studios — Pet Metropolis
+# Universe-Paw-Studios - Pet Metropolis
 
 Plan finalisé du projet avec une analyse rigoureuse pour passer en production.
 
