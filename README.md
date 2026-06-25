@@ -51,8 +51,8 @@ Plan finalisé du projet avec une analyse rigoureuse pour passer en production.
 
 ## Template de notes de version
 ```text
-# Pet Metropolis - vX.Y.Z
-Date: YYYY-MM-DD
+# Pet Metropolis - v0.1.0
+Date: 2026-06-25
 
 ## Nouveautés
 - [Décrire les nouvelles fonctionnalités livrées]
