@@ -1,4 +1,5 @@
-# Universe-Paw-Studios - Pet Metropolis
+# Pet Metropolis
+*Part of Universe-Paw-Studios*
 
 Plan finalisé du projet avec une analyse rigoureuse pour passer en production.
 
@@ -49,7 +50,7 @@ Plan finalisé du projet avec une analyse rigoureuse pour passer en production.
 - [ ] Plan de rollback prêt
 
 ## Template de notes de version
-```md
+```text
 # Pet Metropolis - vX.Y.Z
 Date: YYYY-MM-DD
 
