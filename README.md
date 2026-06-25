@@ -4,7 +4,7 @@
 Plan finalisé du projet avec une analyse rigoureuse pour passer en production.
 
 ## Objectif produit
-**Pet Metropolis** est un city-builder/animal care game multiplateforme (Android/iOS en priorité) avec économie persistante, progression joueur et composantes sociales.
+**Pet Metropolis** est un city-builder/animal care game multiplateforme (Android/iOS en priorité) avec économie persistante, progression joueur et composants sociaux.
 
 ## Analyse de finalisation (prêt à l’emploi)
 
