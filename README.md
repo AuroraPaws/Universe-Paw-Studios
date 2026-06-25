@@ -54,18 +54,18 @@ Plan finalisé du projet avec une analyse rigoureuse pour passer en production.
 Date: YYYY-MM-DD
 
 ## Nouveautés
-- ...
+- [Décrire les nouvelles fonctionnalités livrées]
 
 ## Améliorations
-- ...
+- [Décrire les optimisations gameplay/techniques]
 
 ## Corrections
-- ...
+- [Lister les bugs corrigés]
 
 ## Technique
-- Build Android: ...
-- Build iOS: ...
-- Migrations backend: oui/non
+- Build Android: [ex: AAB v1.2.3 - API 31+]
+- Build iOS: [ex: Build 145 - iOS 15+]
+- Migrations backend: [oui/non + détail]
 
 ## Points de vigilance post-release
 - KPI à surveiller: D1, crash-free rate, ARPDAU
